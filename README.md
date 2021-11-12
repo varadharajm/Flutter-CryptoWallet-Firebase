@@ -1,6 +1,6 @@
 # crypto_walle
 
-A new Flutter project.
+Complete crypto wallet using firebase
 
 ## Getting Started
 
