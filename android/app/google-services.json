@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705308719860",
+    "firebase_url": "https://amazing-counter-d2700-default-rtdb.firebaseio.com",
+    "project_id": "amazing-counter-d2700",
+    "storage_bucket": "amazing-counter-d2700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705308719860:android:95729a04606e2565c6fca1",
+        "android_client_info": {
+          "package_name": "com.example.crypto_walle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705308719860-ru6drqilfko9bekkvrfc8r47qob3ih1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crypto_walle",
+            "certificate_hash": "8ba005fd2c91411d72262e5c11f96a507f420c89"
+          }
+        },
+        {
+          "client_id": "705308719860-1d80m63ae41o1essfucsgchmms7747fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjI2cIIwa-AXVHBuxB3RlUMM16Cd6vTB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705308719860-1d80m63ae41o1essfucsgchmms7747fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
